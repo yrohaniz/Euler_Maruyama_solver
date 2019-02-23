@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yrohanizadegan/Desktop/SDE project/Euler_Maruyama_solver/EuMa.h
+
+/home/yrohanizadegan/Desktop/SDE project/Euler_Maruyama_solver/Marsaglia_polar_generator.c
+math.h
+-
+EuMa.h
+/home/yrohanizadegan/Desktop/SDE project/Euler_Maruyama_solver/EuMa.h
+stdlib.h
+-
+
+/home/yrohanizadegan/Desktop/SDE project/Euler_Maruyama_solver/PRNG_uniform.c
+stdlib.h
+-
+stdio.h
+-
+EuMa.h
+/home/yrohanizadegan/Desktop/SDE project/Euler_Maruyama_solver/EuMa.h
+
+/home/yrohanizadegan/Desktop/SDE project/Euler_Maruyama_solver/diffusion_function.c
+EuMa.h
+/home/yrohanizadegan/Desktop/SDE project/Euler_Maruyama_solver/EuMa.h
+math.h
+-
+
+/home/yrohanizadegan/Desktop/SDE project/Euler_Maruyama_solver/drift_function.c
+EuMa.h
+/home/yrohanizadegan/Desktop/SDE project/Euler_Maruyama_solver/EuMa.h
+math.h
+-
+
+/home/yrohanizadegan/Desktop/SDE project/Euler_Maruyama_solver/main.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+EuMa.h
+/home/yrohanizadegan/Desktop/SDE project/Euler_Maruyama_solver/EuMa.h
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Euler_Maruyama_solver.dir/main.c.o CMakeFiles/Euler_Maruyama_solver.dir/drift_function.c.o CMakeFiles/Euler_Maruyama_solver.dir/diffusion_function.c.o CMakeFiles/Euler_Maruyama_solver.dir/PRNG_uniform.c.o CMakeFiles/Euler_Maruyama_solver.dir/Marsaglia_polar_generator.c.o  -o Euler_Maruyama_solver -lm 
